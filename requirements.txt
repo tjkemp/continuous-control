@@ -1,2 +1,2 @@
 torch==0.4.0
-gym==0.9.6
+mlagents==0.4.0
